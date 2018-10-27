@@ -198,3 +198,5 @@ All **other contents** (except those in [`server`](server), [`cli`](cli) and
 [`console`](console) directories) are available under the [MIT License](LICENSE-community).
 This includes everything in the [`docs`](docs) and [`community`](community)
 directories.
+
+My changes.
